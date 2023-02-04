@@ -10203,11 +10203,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\JADPA-23\\Documents\\Visual Studio 2022\\Demo040223\\Demo040223.csproj",
+      "projectUniqueName": "C:\\Users\\JADPA-23\\Documents\\Crud-Login\\Demo040223\\Demo040223.csproj",
       "projectName": "Demo040223",
-      "projectPath": "C:\\Users\\JADPA-23\\Documents\\Visual Studio 2022\\Demo040223\\Demo040223.csproj",
+      "projectPath": "C:\\Users\\JADPA-23\\Documents\\Crud-Login\\Demo040223\\Demo040223.csproj",
       "packagesPath": "C:\\Users\\JADPA-23\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\JADPA-23\\Documents\\Visual Studio 2022\\Demo040223\\obj\\",
+      "outputPath": "C:\\Users\\JADPA-23\\Documents\\Crud-Login\\Demo040223\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\JADPA-23\\AppData\\Roaming\\NuGet\\NuGet.Config",
